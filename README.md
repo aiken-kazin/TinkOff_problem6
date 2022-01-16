@@ -1,0 +1,1 @@
+# TinkOff_problem6
